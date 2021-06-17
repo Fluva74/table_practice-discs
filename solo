@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Which Disc To Use?</title>
+</head>
+
+<body>
+    <h1>Which Disc To Use</h1>
+    <table>
+        <thead>
+            <th>Disc</th>
+            <th>Type</th>
+            <th>Distance<sup>(ft)</sup></th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Wraith</td>
+                <td>Driver</td>
+                <td>250+</td>
+            </tr>
+            <tr>
+                <td>Buzz</td>
+                <td>Mid-Range</td>
+                <td>125-250</td>
+            </tr>
+            <tr>
+                <td>Luna</td>
+                <td>Putter</td>
+                <td>Pin-125</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2>V2</h2>
+    <table>
+        <thead>
+            <tr>
+                <th rowspan="2">Disc</th>
+                <th rowspan="2">Type</th>
+                <th colspan="2">Distance</th>
+            </tr>
+            <tr>
+                <th>Feet</th>
+                <th>Meters</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Wraith</td>
+                <td>Driver</td>
+                <td>250+</td>
+                <td>81+</td>
+            </tr>
+            <tr>
+                <td>Buzz</td>
+                <td>Mid-Range</td>
+                <td>125-250</td>
+                <td>42-81</td>
+            </tr>
+            <tr>
+                <td>Luna</td>
+                <td>Putter</td>
+                <td>Pin-125</td>
+                <td>Pin-42</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
